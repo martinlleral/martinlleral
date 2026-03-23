@@ -11,18 +11,21 @@ Combino investigación cualitativa, metodologías ágiles y herramientas digital
 ### Casos reales
 
 **Cooperativa musical de 21 personas (S.A.B.)**
+
 Investigación de campo, arquitectura Notion de 8 bases de datos conectadas, sistema de puntos transparente, actas automáticas con IA.
 - Reuniones **-56%** (de 2h a 45 min)
 - Actas **-95%** (de 2 días a 10 min con IA)
 - **42 horas humanas** ahorradas por semana
 
 **Mar de Pan — panadería artesanal sistematizada desde cero**
+
 Sistema integral de gestión (pedidos, producción, stock, finanzas) con Supabase + Cloudflare Workers. Sprints semanales, SOPs documentados, equipo con métricas.
 - Capacidad **x3.5** en 2 años
 - Margen bruto **86%**
 - De 1 a **4 personas** con 12+ procesos documentados
 
 **Proyecto comunitario regenerativo (La Domarca)**
+
 Gestión ágil aplicada a regeneración territorial: Scrum, Backlogs y OKR para coordinar 24 subproyectos entre familias, agroforesta sintrópica y tratamiento ecológico de aguas.
 
 ---
