@@ -16,6 +16,7 @@ Investigación de campo, arquitectura Notion de 8 bases de datos conectadas, sis
 - Reuniones **-56%** (de 2h a 45 min)
 - Actas **-95%** (de 2 días a 10 min con IA)
 - **42 horas humanas** ahorradas por semana
+- [Ver caso de estudio UX completo](https://github.com/martinlleral/ux-case-study-sab)
 
 **Mar de Pan — panadería artesanal sistematizada desde cero**
 
