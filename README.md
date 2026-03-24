@@ -41,6 +41,8 @@ Gestión ágil aplicada a regeneración territorial: Scrum, Backlogs y OKR para 
 | **Masagochi** | Simulador de fermentación de masa madre | [Ver demo](https://martinlleral.github.io/masagochi) | [Código](https://github.com/martinlleral/masagochi) |
 | **Lamp Architect** | Configurador 3D de lámparas con Three.js | [Ver demo](https://martinlleral.github.io/lamp-architect) | [Código](https://github.com/martinlleral/lamp-architect) |
 | **Pedidos Epuyen** | Formulario de pedidos solidarios | [Ver demo](https://martinlleral.github.io/pedidos-epuyen) | [Código](https://github.com/martinlleral/pedidos-epuyen) |
+| **App Puro Juego** | PWA de misiones de juego activo para niños | En diseño | [Código](https://github.com/martinlleral/app-puro-juego) |
+| **SintropIA** | Observabilidad sintrópica para agroforestería | En diseño | [Código](https://github.com/martinlleral/sintropia) |
 
 ---
 
