@@ -1,64 +1,64 @@
 # Martín Lleral
 
-**Antropólogo que lee organizaciones como sistemas humanos y las traduce a sistemas digitales que funcionan.**
+**UX Researcher & Service Designer — Antropólogo que investiga usuarios y diseña sistemas organizacionales que funcionan.**
 
-Soy Licenciado en Antropología (UNLP), fundador de **Mar de Pan** (panadería artesanal) y co-fundador de **TRAMA**, una consultora de sistematización ágil para emprendimientos y organizaciones.
+Licenciado en Antropología (UNLP). Aplico métodos etnográficos a problemas de producto y operaciones: entrevistas de profundidad, observación participante y análisis cualitativo para descubrir qué necesitan realmente los usuarios y traducirlo en decisiones de diseño.
 
-Combino investigación cualitativa, metodologías ágiles y herramientas digitales para transformar caos operativo en sistemas que escalan.
+Fundador de [Mar de Pan](https://martinlleral.github.io/dashboard-kpi) (panadería artesanal sistematizada con Scrum) y co-fundador de **TRAMA** (consultora de diseño organizacional para emprendimientos).
 
 ---
 
-### Casos reales
+### Casos de investigación
 
-**Cooperativa musical de 21 personas (S.A.B.)**
+**Cooperativa musical de 21 personas (S.A.B.)** — UX Research + Service Design
 
-Investigación de campo, arquitectura Notion de 8 bases de datos conectadas, sistema de puntos transparente, actas automáticas con IA.
+Investigación de campo con entrevistas, observación participante y análisis sociocrático. Diseño de arquitectura Notion (8 bases conectadas), sistema de puntos transparente y actas automáticas con IA.
+
 - Reuniones **-56%** (de 2h a 45 min)
 - Actas **-95%** (de 2 días a 10 min con IA)
-- **42 horas humanas** ahorradas por semana
+- **42 horas/semana** ahorradas al equipo
 - [Ver caso de estudio UX completo](https://github.com/martinlleral/ux-case-study-sab)
 
-**Mar de Pan — panadería artesanal sistematizada desde cero**
+**Mar de Pan** — Service Design + Sistematización operativa
 
-Sistema integral de gestión (pedidos, producción, stock, finanzas) con Supabase + Cloudflare Workers. Sprints semanales, SOPs documentados, equipo con métricas.
+Diseño integral del servicio desde cero: mapeo de procesos, journey del pedido, SOPs documentados, métricas operativas. Stack: Supabase + Cloudflare Workers + sprints semanales.
+
 - Capacidad **x3.5** en 2 años
 - Margen bruto **86%**
 - De 1 a **4 personas** con 12+ procesos documentados
 
-**Proyecto comunitario regenerativo (La Domarca)**
+**La Domarca** — Facilitación + Gestión ágil comunitaria
 
-Gestión ágil aplicada a regeneración territorial: Scrum, Backlogs y OKR para coordinar 24 subproyectos entre familias, agroforesta sintrópica y tratamiento ecológico de aguas.
+Coordinación de 24 subproyectos de regeneración territorial entre familias, usando Scrum, Backlogs y OKR para alinear agroforestería sintrópica y tratamiento ecológico de aguas.
 
 ---
 
-### Proyectos
+### Proyectos técnicos
 
-| Proyecto | Descripción | Demo | Repo |
-|----------|-------------|------|------|
-| **Dashboard KPI** | Tablero de mando semanal con Chart.js | [Ver demo](https://martinlleral.github.io/dashboard-kpi) | [Código](https://github.com/martinlleral/dashboard-kpi) |
-| **Finanzas** | Gestor financiero emprendimiento/hogar | [Ver demo](https://martinlleral.github.io/finanzas-v6) | [Código](https://github.com/martinlleral/finanzas-v6) |
-| **Ogbón** | Ritmos de percusión afrobrasileña con Web Audio API | [Ver demo](https://martinlleral.github.io/ogbon) | [Código](https://github.com/martinlleral/ogbon) |
-| **Masagochi** | Simulador de fermentación de masa madre | [Ver demo](https://martinlleral.github.io/masagochi) | [Código](https://github.com/martinlleral/masagochi) |
-| **Lamp Architect** | Configurador 3D de lámparas con Three.js | [Ver demo](https://martinlleral.github.io/lamp-architect) | [Código](https://github.com/martinlleral/lamp-architect) |
-| **Pedidos Epuyen** | Formulario de pedidos solidarios | [Ver demo](https://martinlleral.github.io/pedidos-epuyen) | [Código](https://github.com/martinlleral/pedidos-epuyen) |
-| **App Puro Juego** | PWA de misiones de juego activo para niños | En diseño | [Código](https://github.com/martinlleral/app-puro-juego) |
-| **SintropIA** | Observabilidad sintrópica para agroforestería | En diseño | [Código](https://github.com/martinlleral/sintropia) |
+| Proyecto | Descripción | Stack | Demo |
+|----------|-------------|-------|------|
+| **Ogbon** | Compositor de ritmos afrobrasileños | React 19, Web Audio API, Supabase | [Demo](https://martinlleral.github.io/ogbon) |
+| **Masagochi** | Simulador de fermentación de masa madre | React 19, Vite, Recharts | [Demo](https://martinlleral.github.io/masagochi) |
+| **Lamp Architect** | Configurador paramétrico 3D de lámparas | React 18, Three.js, R3F | [Demo](https://martinlleral.github.io/lamp-architect) |
+| **Finanzas** | Gestor financiero personal | Vanilla JS, Chart.js | [Demo](https://martinlleral.github.io/finanzas-v6) |
+| **App Puro Juego** | PWA de misiones de juego activo para niños | En diseño | — |
+| **SintropIA** | Observabilidad sintrópica para agroforestería | En diseño | — |
 
 ---
 
 ### Herramientas y métodos
 
-**Gestión:** Notion, Scrum, Kanban, OKR, Lean Canvas, Sociocracia
+**Research:** Entrevistas de profundidad, observación participante, análisis cualitativo, journey mapping, service blueprinting
 
-**Desarrollo:** JavaScript, SQL (Supabase/PostgreSQL), GitHub Actions (CI/CD), Cloudflare Workers, Google Apps Script
+**Diseño:** Service Design, Sociocracia 3.0, Lean Canvas, diseño organizacional
 
-**Investigación:** UX Research, entrevistas de profundidad, observación participante, análisis cualitativo, Service Design
+**Gestión:** Scrum, Kanban, OKR, Notion
 
-**IA y automatización:** Claude Code, automatización de actas, procesamiento de datos con IA
+**Técnico:** JavaScript, SQL (PostgreSQL/Supabase), GitHub Actions, Cloudflare Workers, Claude Code
 
 ---
 
-### Conectemos
+### Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mart%C3%ADn-lleral-9a57a475)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:martinlleral@gmail.com)
