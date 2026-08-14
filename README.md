@@ -1,64 +1,81 @@
 # Martín Lleral
 
-**UX Researcher & Service Designer — Antropólogo que investiga usuarios y diseña sistemas organizacionales que funcionan.**
+**Diseño sistemas de gestión que organizaciones reales usan todos los días.**
 
-Licenciado en Antropología (UNLP). Aplico métodos etnográficos a problemas de producto y operaciones: entrevistas de profundidad, observación participante y análisis cualitativo para descubrir qué necesitan realmente los usuarios y traducirlo en decisiones de diseño.
+Antropólogo (UNLP) y co-fundador de **TRAMA**, consultora de diseño
+organizacional + IA. El método viene de la antropología: observar sin
+intervenir, entrevistar en profundidad, encontrar el insight que ordena. La
+tecnología es la herramienta con la que ese insight se vuelve sistema.
 
-Fundador de [Mar de Pan](https://martinlleral.github.io/dashboard-kpi) (panadería artesanal sistematizada con Scrum) y co-fundador de **TRAMA** (consultora de diseño organizacional para emprendimientos).
+Cuando una organización funciona a memoria, WhatsApp y buena voluntad, ahí entro.
 
 ---
 
-### Casos de investigación
+### Sistemas en producción
 
-**Cooperativa musical de 21 personas (S.A.B.)** — UX Research + Service Design
+**Cooperativa musical de 21 personas** · investigación cualitativa → sistema de gestión → plataforma de eventos
 
-Investigación de campo con entrevistas, observación participante y análisis sociocrático. Diseño de arquitectura Notion (8 bases conectadas), sistema de puntos transparente y actas automáticas con IA.
+Entrevistas y observación participante, arquitectura en Notion (8 bases
+conectadas), reparto de puntos transparente y actas asistidas por IA. Segunda
+fase: sistema de eventos end-to-end — landing, ticketera con MercadoPago,
+cupones y dashboard.
 
-- Reuniones **-56%** (de 2h a 45 min)
-- Actas **-95%** (de 2 días a 10 min con IA)
-- **42 horas/semana** ahorradas al equipo
-- [Ver caso de estudio UX completo](https://github.com/martinlleral/ux-case-study-sab)
+- Reuniones **−56 %** · actas de **2 días a 10 minutos**
+- Entregado al **36-48 %** del costo de mercado; se pagó solo en 4 meses
+- 🔓 [Código](https://github.com/martinlleral/sab-landing) · 📄 [Caso de estudio UX](https://github.com/martinlleral/ux-case-study-sab)
 
-**Mar de Pan** — Service Design + Sistematización operativa
+**Policonsultorio médico (+140 profesionales)** · discovery → migración → plataforma
 
-Diseño integral del servicio desde cero: mapeo de procesos, journey del pedido, SOPs documentados, métricas operativas. Stack: Supabase + Cloudflare Workers + sprints semanales.
+Entrevistas en el lugar y mapa de fricciones; migración y normalización desde un
+sistema legacy (142 profesionales, 69 especialidades); plataforma con buscador
+tolerante a errores de tipeo, fichas, panel por roles y liquidación automática.
+Cifrado, auditoría y control de acceso según Ley 25.326.
 
-- Capacidad **x3.5** en 2 años
-- Margen bruto **86%**
-- De 1 a **4 personas** con 12+ procesos documentados
+- 🔒 Código privado (datos de salud) · caso de estudio en preparación
 
-**La Domarca** — Facilitación + Gestión ágil comunitaria
+**Mar de Pan** · panadería artesanal que fundé en 2020 y sistematicé desde cero
 
-Coordinación de 24 subproyectos de regeneración territorial entre familias, usando Scrum, Backlogs y OKR para alinear agroforestería sintrópica y tratamiento ecológico de aguas.
+Mapeo de procesos, journey del pedido, SOPs, métricas operativas y herramientas
+propias: planificación de producción, optimización de rutas de reparto,
+validación de pagos, facturación electrónica.
+
+- Capacidad **×3,5** en dos años · de 1 a **4 personas** con 12+ procesos documentados
+- Opera sin depender de mi memoria, que era el punto
+
+**La Domarca** · facilitación y gestión ágil comunitaria
+
+Coordinación de 24 subproyectos de regeneración territorial entre familias:
+agroforestería sintrópica, bombeo solar, tratamiento ecológico de aguas.
 
 ---
 
 ### Proyectos técnicos
 
-| Proyecto | Descripción | Stack | Demo |
-|----------|-------------|-------|------|
-| **Ogbon** | Compositor de ritmos afrobrasileños | React 19, Web Audio API, Supabase | [Demo](https://martinlleral.github.io/ogbon) |
-| **Masagochi** | Simulador de fermentación de masa madre | React 19, Vite, Recharts | [Demo](https://martinlleral.github.io/masagochi) |
-| **Lamp Architect** | Configurador paramétrico 3D de lámparas | React 18, Three.js, R3F | [Demo](https://martinlleral.github.io/lamp-architect) |
-| **Finanzas** | Gestor financiero personal | Vanilla JS, Chart.js | [Demo](https://martinlleral.github.io/finanzas-v6) |
-| **App Puro Juego** | PWA de misiones de juego activo para niños | En diseño | — |
-| **SintropIA** | Observabilidad sintrópica para agroforestería | En diseño | — |
+| Proyecto | Qué es | Stack | |
+|---|---|---|---|
+| **Ogbon** | Compositor de ritmos afrobrasileños, con las fuentes etnomusicológicas declaradas | React 19 · Web Audio API · Supabase | [Demo](https://martinlleral.github.io/ogbon) |
+| **Masagochi** | Simulador de fermentación de masa madre | React 19 · Vite · Recharts | [Demo](https://martinlleral.github.io/masagochi) |
+| **Lamp Architect** | Configurador paramétrico 3D de lámparas | React 18 · Three.js · R3F | [Demo](https://martinlleral.github.io/lamp-architect) |
+| **Finanzas** | Gestor financiero con modo offline | Vanilla JS · Chart.js · PWA | [Demo](https://martinlleral.github.io/finanzas-v6) |
+| **Dashboard KPI** | Tablero de mando semanal para un emprendimiento | Vanilla JS · Chart.js · Apps Script | [Demo](https://martinlleral.github.io/dashboard-kpi) |
 
 ---
 
 ### Herramientas y métodos
 
-**Research:** Entrevistas de profundidad, observación participante, análisis cualitativo, journey mapping, service blueprinting
+**Research:** entrevistas de profundidad · observación participante · análisis
+cualitativo · journey mapping · service blueprinting
 
-**Diseño:** Service Design, Sociocracia 3.0, Lean Canvas, diseño organizacional
+**Diseño:** service design · sociocracia 3.0 · diseño organizacional
 
-**Gestión:** Scrum, Kanban, OKR, Notion
+**Gestión:** Scrum · Kanban · OKR · Notion
 
-**Técnico:** JavaScript, SQL (PostgreSQL/Supabase), GitHub Actions, Cloudflare Workers, Claude Code
+**Técnico:** JavaScript · SQL (PostgreSQL/Supabase) · Astro · Cloudflare ·
+GitHub Actions · Claude Code
 
 ---
 
 ### Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mart%C3%ADn-lleral-9a57a475)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinlleral/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:martinlleral@gmail.com)
