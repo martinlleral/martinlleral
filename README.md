@@ -17,11 +17,12 @@ Cuando una organización funciona a memoria, WhatsApp y buena voluntad, ahí ent
 
 Entrevistas y observación participante, arquitectura en Notion (8 bases
 conectadas), reparto de puntos transparente y actas asistidas por IA. Segunda
-fase: sistema de eventos end-to-end — landing, ticketera con MercadoPago,
-cupones y dashboard.
+fase: la ticketera, que había construido otro desarrollador de forma
+voluntaria. La aseguré, la pasé a cuentas propias del Sindicato, le sumé
+cupones, lista de espera y un panel de reportes, y publiqué el código con
+licencia MIT.
 
-- Reuniones **−56 %** · actas de **2 días a 10 minutos**
-- Entregado al **36-48 %** del costo de mercado; se pagó solo en 4 meses
+- La venta de entradas pasó a **cuentas propias del Sindicato** · el validador se usó en vivo sin fallas
 - 🔓 [Código](https://github.com/martinlleral/sab-landing) · 📄 [Caso de estudio UX](https://github.com/martinlleral/ux-case-study-sab)
 
 **Policonsultorio médico (+140 profesionales)** · discovery → migración → plataforma
